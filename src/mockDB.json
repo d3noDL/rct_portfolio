@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "type": "game-dev",
+    "title": "some title",
+    "description": "some description",
+    "previewImageSource": "mockPrev.png"
+  },
+  {
+    "id": "1",
+    "type": "fullstack",
+    "title": "some title",
+    "description": "some description",
+    "previewImageSource": "mockPrev.png"
+  },
+  {
+    "id": "2",
+    "type": "game-dev",
+    "title": "some title",
+    "description": "some description",
+    "previewImageSource": "mockPrev.png"
+  },
+  {
+    "id": "3",
+    "type": "fullstack",
+    "title": "some title",
+    "description": "some description",
+    "previewImageSource": "mockPrev.png"
+  }
+]
